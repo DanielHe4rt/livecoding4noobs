@@ -1,4 +1,4 @@
-<h1 align = center> Mods4Noobs </h1>
+<h1 align = center> Moderação para Twitch </h1>
 
 
 
