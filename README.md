@@ -14,23 +14,23 @@ Esse repositório tem como objetivo ensinar as principais ferramentas/técnicas 
 2. [Funções Básicas](/contents/2.Funcoes.md)
     + Delete/Timeout/Ban
     + Funções Manuais
-3. [Interface do Moderador](/contents/3.Interface.md)
-4. [Comandos](/contents/4.Comandos.md)
-5. [Palavras Bloqueadas](/contents/5.Palavras.md)
+3. [Interface do Moderador](/contents/3.Interface.md) (Em andamento)
+4. [Comandos](/contents/4.Comandos.md)  (Em andamento)
+5. [Palavras Bloqueadas](/contents/5.Palavras.md)  (Em andamento)
     + Palavras Proibidas
     + Caules
 6. [Bots para Twitch](/contents/6.Bots.md)
-    + Stream Elements
     + Nightbot
-7. [AutoMod](/contents/7.AutoMod.md)
-8. [Situações](/contents/8.Situacoes.md)
+    + Stream Elements
+7. [AutoMod](/contents/7.AutoMod.md)  (Em andamento)
+8. [Situações](/contents/8.Situacoes.md)  (Em andamento)
     + Ataque de bots (seguidores, flood)
     + Raids Agressivas
     + Situações que ocorrem
-9. [Diretrizes](/contents/9.Diretrizes.md)
+9. [Diretrizes](/contents/9.Diretrizes.md)  (Em andamento)
     + Twitch
     + He4rt Live
-10. [Bônus](/contents/10.Bonus.md)
+10. [Bônus](/contents/10.Bonus.md)  (Em andamento)
     + Bots para Discord
 
     
