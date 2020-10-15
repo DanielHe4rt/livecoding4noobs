@@ -15,7 +15,7 @@ Esse repositório tem como objetivo ensinar as principais ferramentas/técnicas 
     + Delete/Timeout/Ban
     + Funções Manuais
 3. [Interface do Moderador](/contents/3.Interface.md) 
-4. [Comandos](/contents/4.Comandos.md)  (Ainda vai ser escrito)
+4. [Comandos](/contents/4.Comandos.md)  (Em desenvolvimento)
 5. [Palavras Bloqueadas](/contents/5.Palavras.md)  (Em desenvolvimento)
     + Palavras Proibidas
     + Caules
