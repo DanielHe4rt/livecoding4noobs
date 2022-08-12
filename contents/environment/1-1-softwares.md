@@ -35,7 +35,7 @@ para customizar as imagens da sua live. Os principais usos desse plugin são des
 objetos 3D (quando você quer rotacionar por exemplo o chat da sua live no eixo vertical).
 
 Por fim, um plugin de música utilizado pela comunidade é o **Tuna**, com ele é possível mostrar na tela da live qual música
-o streamer está ouvindo no momento, sem a necessidade de usar um aplicativo de terceiros para fazer isso. Com ele, é somente
+o streamer está ouvindo no momento sem a necessidade de usar um aplicativo de terceiros para fazer isso. Com ele, é somente
 necessário que você linke uma conta cadastrada seja: Spotify, MPD, last.fm, soundcloud ou até mesmo o Spotify web com a
 extensão de navegador tampermonkey script.
 
