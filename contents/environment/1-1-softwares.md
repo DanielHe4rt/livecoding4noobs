@@ -1,6 +1,7 @@
 # Softwares para Streaming
 
-## OBS
+## OBS ![OBS](https://user-images.githubusercontent.com/23579978/184427960-3e5f183f-a9cb-4777-a26c-b0dabc4c20a9.png)
+
 ###### O que é o OBS:
 O **Open Broadcaster Software (OBS)** é um programa de **gravação** e **transmissão** gratuito open source mais usado
 e completo na sua categoria atualmente. Desenvolvido e mantido pelo OBS Project com suporte para Windows 8.1+, macOS 10.
@@ -24,8 +25,26 @@ outras configurações feitas com ou sem plugins de terceiros.
 
 - Transições e controles: Áreas da interface onde ficam botões para acesso a configurações do OBS.
 
+Ainda dentro do OBS, é possível utilizar plugins para incrementar tanto a experiência do streamer quanto a do usuário.
+Existem plugins famosos na comunidade como o **win capture audio** que permite o usuário separar faixas de áudio em seu 
+computador para ter um maior controle sobre os sons distruídos na live. Com ele é possível por exemplo, bloquear o áudio
+de uma call em Discord, para que ela não saia na live enquanto você se mantém conversando com sua audiência.
 
-## Streamlabs OBS
+Outro plugin famoso dentre a comunidade é o StreamFX, onde com ele é possível ter efeitos adicionais - não embutidos no OBS -
+para customizar as imagens da sua live. Os principais usos desse plugin são desfocar imagens, adicionar shaders e transformar 
+objetos 3D (quando você quer rotacionar por exemplo o chat da sua live no eixo vertical).
+
+Por fim, um plugin de música utilizado pela comunidade é o **Tuna**, com ele é possível mostrar na tela da live qual música
+o streamer está ouvindo no momento, sem a necessidade de usar um aplicativo de terceiros para fazer isso. Com ele, é somente
+necessário que você linke uma conta cadastrada seja: Spotify, MPD, last.fm, soundcloud ou até mesmo o Spotify web com a
+extensão de navegador tampermonkey script.
+
+Existem uma infinidade de plugins com as mais diversas aplicações, desde interação otimizada até estética de live, cabe somente
+a você procurá-los e aplicá-los.
+
+#
+
+## Streamlabs ![slabs](https://user-images.githubusercontent.com/23579978/184428075-afb4e17e-4476-4474-b3d8-130cb9612c5d.png)
 
 ###### O que é o Streamlabs:
 O **Streamlabs** parte do mesmo princípio do **OBS**, ser uma ferramenta de gravação/transmissão para o usuário. Ele possui
