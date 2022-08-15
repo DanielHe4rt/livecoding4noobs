@@ -39,6 +39,7 @@ Não quer que alguma palavra seja usada no seu chat? Você comunica ele e se alg
   
   - Habilite proteção de palavra. Clique em [preferencias] > [lista negra] > [adicionar palavra/frase] e então um modal será exibido para você adicionar palavras que ***NÃO** quer que sejam usadas no seu chat. Você também tera que escolher qual punição será dada caso alguém digite [banir, timeout, purge]
 
+
   ![gif](../../assets/streamlabs-filtro-palavra.gif)
 
 ## StreamElements 
