@@ -1,4 +1,8 @@
-<h1 align="center"> Livecoding4Noobs </h1>
+
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/3299130/184506231-0a9346e4-1c49-4f9f-bf44-97d7023571a3.png" width="400" alt="livecoding4noobs">
+</p>
 
 # Sobre o Repositório
 
