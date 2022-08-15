@@ -31,7 +31,7 @@ Não quer que alguma palavra seja usada no seu chat? Você comunica ele e se alg
 
 ## Como usar: 
 
-1. Acesse (https://streamlabs.com/pt-br/cloudbot) e faça login com sua conta da Twitch > Você será direcionado ao dashboard e caso esteja em ingles, você pode mudar isso clicando no seu icone no canto superior direito e até mudar o tema.
+1. Acesse (https://streamlabs.com/pt-br/cloudbot) e faça login com sua conta da Twitch > Você será direcionado ao dashboard e caso esteja em inglês, você pode mudar isso clicando no seu icone no canto superior direito e até mudar o tema.
 2. Procure e clique em [Cloudbot] no menu vertical a esquerda > Ative o bot. Vá até seu chat da twitch e digite "/mod StreamLabs" e agora sim ele está 100% vinculado a sua live. 
 3. Na pagina [Cloudbot] será exibida todas ferramentas que podem ser ativadas/desativadas e até criadas por você! 
 
