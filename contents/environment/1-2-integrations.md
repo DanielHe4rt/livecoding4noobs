@@ -42,6 +42,7 @@ Não quer que alguma palavra seja usada no seu chat? Você comunica ele e se alg
 
   ![gif](../../assets/streamlabs-filtro-palavra.gif)
 
+
 ## StreamElements 
 
 ## Como usar: 
