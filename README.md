@@ -7,9 +7,9 @@ Guia de como começar a fazer suas lives voltadas à código serem mais produtiv
 # Road Map
 
 1. Básicos 
-    + [Introdução](/contents/basics/1-1-intro.md)
-    + [Porquê fazer LiveCoding](/contents/basics/1-2-why-livecoding.md)
-    + [Plataformas de Streaming](/contents/basics/1-3-streaming-platforms.md)
+    1. [Introdução](/contents/basics/1-1-intro.md)
+    2. [Porquê fazer LiveCoding](/contents/basics/1-2-why-livecoding.md)
+    3. [Plataformas de Streaming](/contents/basics/1-3-streaming-platforms.md)
 2. Configurando Ambiente
    1. [Softwares para Streaming](/contents/environment/1-1-softwares.md)
    2. [Integrações para Streaming (IMPORTANTE!)](/contents/environment/1-2-integrations.md)
