@@ -1,7 +1,7 @@
 # Integrações de Terceiros
 
 ## BTTV 
-> BTTV é uma extensão de navegador que te dá acesso a milhares de  emoticons e gifs para serem usados na sua live da Twitch *gratuitamente*, além de permitir que você adicione os seus próprios emotes! Usar essa extensão pode deixar as interações do chat mais *legais*, afinal, que pessoa não iria querer usar um emote de gatinho dançarino?
+> BTTV é uma extensão de navegador que te dá acesso a milhares de  emoticons e gifs para serem usados na sua live da Twitch *gratuitamente*, além de permitir que você adicione os seus próprios emotes! Usar essa extensão pode deixar as interações do chat mais *legais*, afinal, *que pessoa não iria querer usar um emote de gatinho dançarino?*
 
 ## Como usar: 
 
