@@ -24,7 +24,7 @@ Prontinho! Agora é só usar e abusar dos novos emotes :p***
 
 > O que são? Onde vivem? Para que servem? Bom, vamos lá: 
 Esses bots tem como função auxiliar as lives em vários sentidos como: controle de spam, proibir links ou ter comandos próprios. É como se você tivesse um secretario de live, você precisa delegar suas funções e é pra ele que vai passar. 
-Não quer que alguma palavra seja usada no seu chat? Você comunica ele e se alguém falar, ele vai automaticamente (banir ou dar timeout, isso você decide também). Existem vários bots disponiveis, listar todos seria ~~chato~~ então irei sugerir 3 dos mais conhecidos:
+Não quer que alguma palavra seja usada no seu chat? Você comunica ele e se alguém falar, ele vai automaticamente (banir ou dar timeout, isso você decide também). Existem vários bots disponiveis, listar todos seria ~~chato~~ então citarei 3 dos mais conhecidos:
 
 
 ## Streamlabs 
