@@ -1,6 +1,6 @@
 # Integrações de Terceiros
 
-## BTTV (Deve ter)
+## BTTV 
 > BTTV é uma extensão de navegador que te dá acesso a milhares de  emoticons e gifs para serem usados na sua live da Twitch *gratuitamente*, além de permitir que você adicione os seus próprios emotes! Usar essa extensão pode deixar as interações do chat mais *legais*, afinal, que pessoa não iria querer usar um emote de gatinho dançarino?
 
 ## Como usar: 
@@ -27,7 +27,7 @@ Esses bots tem como função auxiliar as lives em vários sentidos como: control
 Não quer que alguma palavra seja usada no seu chat? Você comunica ele e se alguém falar, ele vai automaticamente (banir ou dar timeout, isso você decide também). Existem vários bots disponiveis, listar todos seria ~~chato~~ então irei sugerir 3 dos mais conhecidos:
 
 
-## Streamlabs (Opcional)
+## Streamlabs 
 
 ## Como usar: 
 
@@ -41,8 +41,7 @@ Não quer que alguma palavra seja usada no seu chat? Você comunica ele e se alg
 
   ![gif](../../assets/streamlabs-filtro-palavra.gif)
 
-
-## StreamElements (Opcional)
+## StreamElements 
 
 ## Como usar: 
 
@@ -52,7 +51,7 @@ Não quer que alguma palavra seja usada no seu chat? Você comunica ele e se alg
 
   ![Gif](/assets/streamlabs-comando-gif.gif)
 
-## Nightbot (Opcional)
+## Nightbot 
 
 ## Como usar: 
 
