@@ -60,5 +60,7 @@ Não quer que alguma palavra seja usada no seu chat? Você comunica ele e se alg
 2. Agora você está no dashboard. 
 3. Para habilitar os filtros, clique em [Proteção contra SPAM] e será exibida uma lista de filtros que você pode habilitar e configurar a sua necessidade clicando em [Opções]
 
-Caso queira aprofundar mais sobre como aproveitar o maximo dos bots: [Bots](/contents/6.Bots.md)
+Caso queira aprofundar mais sobre como aproveitar o maximo dos bots: [Bots](https://github.com/Luisnadachi/Moderacao-para-Twitch/blob/master/contents/6.Bots.md)
+
+ [<- Softwares para Streaming](/contents/environment/2-1-softwares.md) | [Inicio](/README.md) | [Overlays para Streaming ->](/contents/environment/2-3-overlays.md)
 
