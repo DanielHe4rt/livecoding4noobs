@@ -15,9 +15,9 @@ Guia de como começar a fazer suas lives voltadas à código serem mais produtiv
     + [Porquê fazer LiveCoding](/contents/basics/1-2-why-livecoding.md)
     + [Plataformas de Streaming](/contents/basics/1-3-streaming-platforms.md)
 2. Configurando Ambiente
-   1. [Softwares para Streaming](/contents/environment/1-1-softwares.md)
-   2. [Integrações para Streaming (IMPORTANTE!)](/contents/environment/1-2-integrations.md)
-   3. [Overlays para Streaming](/)
+   1. [Softwares para Streaming](/contents/environment/2-1-softwares.md)
+   2. [Integrações para Streaming (IMPORTANTE!)](/contents/environment/2-2-integrations.md)
+   3. [Overlays para Streaming](/contents/environment/2-3-overlays.md)
    4. [Configurando o Ambiente](/)
 3. Entrando em Live
    1. [Introduçao](/contents/livecoding/3-1-intro.md)
