@@ -44,3 +44,7 @@ contribuições são **extremamente apreciadas**!
    - [Twitter](https://twitter.com/danielhe4rt) [LinkedIn](https://www.linkedin.com/in/danielheart)
 - **Luis Eduardo Teixeira (nadachi)** - _Developer & Global Moderator for He4rt Live_
   - [Twitter](https://twitter.com/Luis_Nadachi) [LinkedIn](https://www.linkedin.com/in/luis-eduardo-ribeiro-teixeira-384b9819a/)
+- **Hene** - _Admin Leader PriestBot_
+  - [Twitter](https://twitter.com/henechen) [LinkedIn](https://www.linkedin.com/in/hene/)
+- **Larissa** - _Developer_
+  - [Twitter](https://twitter.com/larissaeiou)

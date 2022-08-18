@@ -24,3 +24,5 @@ aparecem durante a criação da sua comunidade no chat e coisas como essas podem
 
 Fora que você ainda cria uma rede de contatos fortíssima (seu chat da Twitch) onde todo mundo ali vai te apoiar e é
 claro, você vai apoiar seus viewers pois eles vão ser praticamente sua nova familia na internet.
+
+ [<- Introdução](/contents/basics/1-1-intro.md) | [Inicio](/README.md) | [Plataformas de Streaming ->](/contents/basics/1-3-streaming-platforms.md)
