@@ -74,3 +74,5 @@ na tela da stream. Também é possível personalizar a estética das mensagens c
 4. Na janela seguinte, no menu a direita, terá opções de configurações para o widget, configure como preferir.
 5. Após configurar, pressione no canto inferior direito o botão "done" e pronto, seu chat bot estará adicionado.
 ![gif](/assets/config-chatbox-slabs.gif)
+
+ [<- Integrações para Streaming (IMPORTANTE!)](/contents//basics/1-3-streaming-platforms.md) | [Inicio](/README.md) | [Integrações para Streaming (IMPORTANTE!) ->](/)

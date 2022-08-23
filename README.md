@@ -11,9 +11,9 @@ Guia de como começar a fazer suas lives voltadas à código serem mais produtiv
 # Road Map
 
 1. Básicos 
-    + [Introdução](/contents/basics/1-1-intro.md)
-    + [Porquê fazer LiveCoding](/contents/basics/1-2-why-livecoding.md)
-    + [Plataformas de Streaming](/contents/basics/1-3-streaming-platforms.md)
+    1. [Introdução](/contents/basics/1-1-intro.md)
+    2. [Porquê fazer LiveCoding](/contents/basics/1-2-why-livecoding.md)
+    3. [Plataformas de Streaming](/contents/basics/1-3-streaming-platforms.md)
 2. Configurando Ambiente
    1. [Softwares para Streaming](/contents/environment/2-1-softwares.md)
    2. [Integrações para Streaming (IMPORTANTE!)](/contents/environment/2-2-integrations.md)
@@ -44,3 +44,7 @@ contribuições são **extremamente apreciadas**!
    - [Twitter](https://twitter.com/danielhe4rt) [LinkedIn](https://www.linkedin.com/in/danielheart)
 - **Luis Eduardo Teixeira (nadachi)** - _Developer & Global Moderator for He4rt Live_
   - [Twitter](https://twitter.com/Luis_Nadachi) [LinkedIn](https://www.linkedin.com/in/luis-eduardo-ribeiro-teixeira-384b9819a/)
+- **Hene** - _Admin Leader PriestBot_
+  - [Twitter](https://twitter.com/henechen) [LinkedIn](https://www.linkedin.com/in/hene/)
+- **Larissa** - _Developer_
+  - [Twitter](https://twitter.com/larissaeiou)

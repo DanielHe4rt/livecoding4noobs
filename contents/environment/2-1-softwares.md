@@ -64,3 +64,5 @@ chamada "Streamlabs OBS".
 [O OBS então veio a público divulgar o ocorrido](https://twitter.com/OBSProject/status/1460782968633499651) e como consequência o Streamlabs acabou voltando atrás com sua decisão.
 No mesmo mês, a [Lightstream veio a público acusando o Streamlabs de utilizar de forma descarada o design de sua página
 a fim de propagar o projeto do Streamlabs](https://twitter.com/Lightstream/status/1460709404609757185), o Streamlabs por sua vez, negou o ocorrido e alterou todo o design de seu site.
+
+ [<- Plataformas de Streaming](/contents//basics/1-3-streaming-platforms.md) | [Inicio](/README.md) | [Integrações para Streaming (IMPORTANTE!) ->](/contents/environment/2-2-integrations.md)

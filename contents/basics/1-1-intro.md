@@ -7,4 +7,6 @@ Você não necessáriamente precisa seguir tudo que está escrito aqui à risca 
 peculiáridades, porém eu posso te garantir que uma visão de fora pode te ajudar a alcançar seus objetivos como
 streamer. 
 
-Após a leitura, deixa um [tweet]() pra ajudar a gente a divulgar o repositório e tenha um ótima semana!
+Após a leitura, deixa um [tweet](https://twitter.com/compose/tweet) pra ajudar a gente a divulgar o repositório e tenha um ótima semana!
+
+ [Inicio](/README.md) | [Porquê fazer LiveCoding ->](/contents/basics/1-2-why-livecoding.md)
