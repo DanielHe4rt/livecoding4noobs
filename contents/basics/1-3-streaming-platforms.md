@@ -8,4 +8,4 @@
 
 ## Linkedin
 
- [<- Porquê fazer LiveCoding](/contents/basics/1-1-intro.md) | [Inicio](/README.md) | [Softwares para Streaming ->](/contents/environment/1-1-softwares.md)
+ [<- Porquê fazer LiveCoding](/contents/basics/1-1-intro.md) | [Inicio](/README.md) | [Softwares para Streaming ->](/contents/environment/2-1-softwares.md)
