@@ -18,7 +18,7 @@ Guia de como começar a fazer suas lives voltadas à código serem mais produtiv
    1. [Softwares para Streaming](/contents/environment/2-1-softwares.md)
    2. [Integrações para Streaming (IMPORTANTE!)](/contents/environment/2-2-integrations.md)
    3. [Overlays para Streaming](/contents/environment/2-3-overlays.md)
-   4. [Configurando o Ambiente](/)
+   4. [Configurando o Ambiente](/contents//environment/2-4-setup.md)
 3. Entrando em Live
    1. [Introduçao](/contents/livecoding/3-1-intro.md)
    2. [Deveres de um Streamer Iniciante](/contents/livecoding/3-2-duties.md)
@@ -41,7 +41,7 @@ contribuições são **extremamente apreciadas**!
 
 # Autor
 
-- **Daniel Reis (danielhe4rt)** - _Back-end Developer & Twitch Parner_
+- **Daniel Reis (danielhe4rt)** - _Back-end Developer & Twitch Partner_
    - [Twitter](https://twitter.com/danielhe4rt) [LinkedIn](https://www.linkedin.com/in/danielheart)
 - **Luis Eduardo Teixeira (nadachi)** - _Developer & Global Moderator for He4rt Live_
   - [Twitter](https://twitter.com/Luis_Nadachi) [LinkedIn](https://www.linkedin.com/in/luis-eduardo-ribeiro-teixeira-384b9819a/)
