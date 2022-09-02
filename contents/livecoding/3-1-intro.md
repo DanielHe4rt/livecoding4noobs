@@ -10,3 +10,4 @@ Mas uma coisa eu te garanto: depois da primeira live, as coisas vão ficando mai
 
 Livecoding é uma junção de ensino e aprendizado constante e as lives permitem que as pessoas te ajudem quando você tiver algum tipo de dificuldade (seja com a plataforma de streaming ou com o que você estiver fazendo).
 
+ [<- Configurando o Ambiente](/contents//environment/2-4-setup.md) | [Inicio](/README.md) | [Deveres de um Streamer Iniciante ->](/contents/livecoding/3-2-duties.md)

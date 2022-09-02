@@ -17,3 +17,5 @@ Use a ferramenta de fazer clipes da sua live de momentos engraçados, isso vai g
 Uma das coisas que mais cativou e fez a minha imagem (danielhe4rt) foi criar uma proximidade com a minha comunidade (he4rt) onde eu comecei a chamar todo mundo de primo/prima. Existe uma certa streamer de gamedev que chama os viewers de casados/casadas. Tem um tal de Gaulês que chama os viewers de brasileirinhos/brasileirinhas. Existem infinitas possibilidades pra você trazer esse tipo de proximidade.
 
 Pra mim é muito mais fácil zoar um "primo" ou ter uma amizade mais rápida do que zoar uma pessoa aleatória. Crie sua marca em cima do que você busca e deixe sua comunidade ciente e confortável com isso.
+
+ [<- Deveres de um Streamer Iniciante](/contents/livecoding/3-2-duty.md) | [Inicio](/README.md) | [Moderação (IMPORTANTE!) ->](/contents/livecoding/3-4-mods.md)
