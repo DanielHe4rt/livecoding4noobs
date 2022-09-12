@@ -75,4 +75,4 @@ na tela da stream. Também é possível personalizar a estética das mensagens c
 5. Após configurar, pressione no canto inferior direito o botão "done" e pronto, seu chat bot estará adicionado.
 ![gif](/assets/config-chatbox-slabs.gif)
 
- [<- Integrações para Streaming (IMPORTANTE!)](/contents//basics/1-3-streaming-platforms.md) | [Inicio](/README.md) | [Integrações para Streaming (IMPORTANTE!) ->](/contents/environment/2-4-setup.md)
+ [<- Integrações para Streaming (IMPORTANTE!)](/contents//basics/1-3-streaming-platforms.md) | [Inicio](/README.md) | [Configurando o seu ambiente ->](/contents/environment/2-4-setup.md)
