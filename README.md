@@ -17,6 +17,7 @@ Guia de como começar a fazer suas lives voltadas à código serem mais produtiv
    2. [Integrações para Streaming (IMPORTANTE!)](/contents/environment/2-2-integrations.md)
    3. [Overlays para Streaming](/contents/environment/2-3-overlays.md)
    4. [Configurando o Ambiente](/contents//environment/2-4-setup.md)
+   5. [Equipando sua Live](/contents//environment/2-5-equipments.md)
 3. Entrando em Live
    1. [Introduçao](/contents/livecoding/3-1-intro.md)
    2. [Deveres de um Streamer Iniciante](/contents/livecoding/3-2-duty.md)
