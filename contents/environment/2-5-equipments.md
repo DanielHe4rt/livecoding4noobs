@@ -45,7 +45,7 @@ Eu tenho uma luz inteligente que consegue mudar de cor ou ajustar a intensidade 
 
 No backlight você não precisa necessariamente de uma luz inteligente, só precisa de uma luz normal apontada nas suas costas.
 
-Os preços seriam:
+Os equipamentos seriam:
 
 - Ring Light
 - Yeelight
