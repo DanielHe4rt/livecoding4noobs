@@ -2,7 +2,7 @@
 
 ---
 
-Normalmente para fazer live coding, você simplesmente só precisa transmitir a tela do seu computador, mas se você quiser ir mais além, você pode optar para equipamentos para melhorar sua qualidade de stream.
+Normalmente para fazer live coding, você simplesmente só precisa transmitir a tela do seu computador, mas se você quiser ir mais além, você pode optar para equipamentos para melhorar sua qualidade de stream, lembrando que isso é totalmente optativo e isso não deve impedir você a começar as suas lives.
 
 ## Câmera
 
@@ -69,3 +69,5 @@ E vamos para os microfones:
 - Microfone Gamer HyperX QuadCast
 
 Devem ter muitos outros microfones que poderiam entrar nessa lista, sinta-se a vontade para pesquisar outras alternativas.
+
+[<- Configurando seu ambiente)](/contents/environment/2-4-setup.md) | [Inicio](/README.md) | [Introdução ao Livecoding ->](/contents/livecoding/3-1-intro.md)
